@@ -1,4 +1,4 @@
-discourse-topic-group-button
+discourse-custom-topic-button
 =======================
 
 Adds a custom button at the bottom of a topic.
