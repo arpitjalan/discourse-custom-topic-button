@@ -1,0 +1,10 @@
+plugins:
+  custom_topic_button_url:
+    default: "https://www.discourse.org"
+    client: true
+  custom_topic_button_title:
+    default: "Button description here.."
+    client: true
+  custom_topic_button_label:
+    default: "Click Me"
+    client: true
