@@ -21,7 +21,7 @@ hooks:
         cmd:
           - mkdir -p plugins
           - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/techAPJ/discourse-custom-topic-button.git
+          - git clone https://github.com/discourse/discourse-custom-topic-button.git
 ```
 
 * Rebuild the container
