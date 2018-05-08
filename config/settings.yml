@@ -1,5 +1,5 @@
 plugins:
-custom_topic_button_enabled:
+  custom_topic_button_enabled:
     default: true
     client: true
   custom_topic_button_url:
