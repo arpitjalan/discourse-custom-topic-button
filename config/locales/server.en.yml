@@ -1,6 +1,6 @@
 en:
   site_settings:
     custom_topic_button_enabled: "Enable Custom button plugin"
-    custom_topic_button_url: "Custom button URL (&lt;USERNAME&gt; &lt;USER_ID&gt; and &lt;TOPIC_ID&gt; will be replaced)"
+    custom_topic_button_url: "Custom button URL (&lt;USERNAME&gt; &lt;USER_ID&gt; &lt;TOPIC_ID&gt; &lt;TOPIC_TITLE&gt; will be replaced)"
     custom_topic_button_title: "Custom button title"
     custom_topic_button_label: "Custom button label"
