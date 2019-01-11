@@ -1,4 +1,7 @@
 plugins:
+  custom_topic_button_enabled:
+    default: true
+    client: true
   custom_topic_button_url:
     default: "https://www.discourse.org"
     client: true
